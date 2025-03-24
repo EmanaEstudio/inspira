@@ -26,7 +26,7 @@ _Somos un estudio de diseño que se especializa en branding para emprendedores, 
 _manda correo a emana.inspira@gmail.com :wave:_
 
 **Qué es Emana Estudio?**: Somos un estudio de diseño y todo lo que nos inspire nos dará gusto compartirlo y aprender de el, nos apasiona la tendencia fashion y sobre todo las tecnologias.
-<br>:tv: :Eye in Speech Bubble:
+<br>:tv: :EyeinSpeechBubble:
 
 **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
 
