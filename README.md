@@ -14,40 +14,48 @@ _Somos un estudio de diseño que se especializa en branding para emprendedores, 
 </header>
 
 <!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
 -->
 
-## Quieres contactar y charlar?
+## Step 2: Commit a file
 
-_manda correo a emana.inspira@gmail.com :wave:_
+_You created a branch! :tada:_
 
-**Qué es Emana Estudio?**: Somos un estudio de diseño y todo lo que nos inspire nos dará gusto compartirlo y aprender de el, nos apasiona la tendencia fashion y sobre todo las tecnologias.
-<br>
+Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
 
-### :keyboard: Activity: Your first branch
+**What is a commit?**: A _[commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)_ is a set of changes to the files and folders in your project. A commit exists in a branch. For more information, see "[About commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)".
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+### :keyboard: Activity: Your first commit
 
-   ![code-tab](/images/code-tab.png)
+The following steps will guide you through the process of committing a change on GitHub. A commit records changes in renaming, changing content within, creating a new file, and any other changes made to your project. For this exercise, committing a change requires first adding a new file to your new branch.
 
-3. Click on the **main** branch drop-down.
+> [!NOTE]
+> `.md` is a file extension that creates a Markdown file. You can learn more about Markdown by visiting "[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)" in our docs or by taking the "[Communicating using Markdown](https://github.com/skills/communicate-using-markdown)" Skills course.
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+1. On the **< > Code** tab in the header menu of your repository, make sure you're on your new branch `my-first-branch`.
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+2. Select the **Add file** drop-down and click **Create new file**.
 
-   ![create-branch-button](/images/create-branch-button.png)
+   ![create new file option](/images/create-new-file.png)
 
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+3. In the **Name your file...** field, enter `PROFILE.md`.
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+4. In the **Enter file contents here** area, copy the following content to your file:
+
+   ```
+   Welcome to my GitHub profile!
+   ```
+
+   ![profile.md file screenshot](/images/my-profile-file.png)
+
+5. Click **Commit changes...** in the upper right corner above the contents box. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice. First, enter `Add PROFILE.md` in the first text-entry field titled "Commit message".
+
+   ![screenshot of adding a new file with a commit message](/images/commit-full-screen.png)
+
+6. In this lesson, we'll ignore the other fields and click **Commit changes**.
+7. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
 
